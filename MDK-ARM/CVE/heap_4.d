@@ -1,0 +1,14 @@
+cve\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+cve\heap_4.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+cve\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+cve\heap_4.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+cve\heap_4.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+cve\heap_4.o: ../Inc/FreeRTOSConfig.h
+cve\heap_4.o: ../Inc/mxconstants.h
+cve\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+cve\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+cve\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+cve\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+cve\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+cve\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+cve\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
