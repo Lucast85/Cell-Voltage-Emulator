@@ -619,12 +619,12 @@ ARM Macro Assembler    Page 10
               00000000 
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp --apcs=int
-erwork --depend=cve\startup_stm32f373xc.d -ocve\startup_stm32f373xc.o -I..\Inc 
--IZ:\GDrive\Universita\PhDato\M10-TestBench\2-CVE\FW\CVE\MDK-ARM\RTE -IC:\Keil_
-v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include -IC:\Keil_v5\ARM\PACK\Keil\STM32F3xx_
-DFP\1.3.0\Device\Include --predefine="__MICROLIB SETA 1" --predefine="__UVISION
-_VERSION SETA 514" --predefine="_RTE_ SETA 1" --predefine="STM32F373xC SETA 1" 
---list=startup_stm32f373xc.lst startup_stm32f373xc.s
+erwork --depend=.\cve\startup_stm32f373xc.d -o.\cve\startup_stm32f373xc.o -I..\
+Inc -I"Z:\MIDAC PROGETTI GIT\CVE\FW\CVE\MDK-ARM\RTE" -IC:\Keil_v5\ARM\PACK\ARM\
+CMSIS\4.3.0\CMSIS\Include -IC:\Keil_v5\ARM\PACK\Keil\STM32F3xx_DFP\1.3.0\Device
+\Include --predefine="__MICROLIB SETA 1" --predefine="__UVISION_VERSION SETA 51
+4" --predefine="_RTE_ SETA 1" --predefine="STM32F373xC SETA 1" --list=startup_s
+tm32f373xc.lst startup_stm32f373xc.s
 
 
 
